@@ -2,8 +2,9 @@ import { createRouter, createWebHistory } from "vue-router";
 
 // Our imported pages used in our routs[].
 // import store from "./store/index.js";
-import AboutMeView from "./pages/AboutMeView.vue";
 import HomeView from "./pages/HomeView.vue";
+import AboutMeView from "./pages/AboutMeView.vue";
+import ProjectView from "./pages/ProjectView.vue";
 
 /* The routes and pathes */
 const router = createRouter({
@@ -12,6 +13,7 @@ const router = createRouter({
   routes: [
     { path: "/", component: HomeView },
     { path: "/about-me", component: AboutMeView },
+    { path: "/projects", component: ProjectView },
   ],
 });
 

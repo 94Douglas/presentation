@@ -2,7 +2,7 @@
     <div>
         <base-card>
             <h1>
-                This is Home View
+                Denna hemsida är en presentation av vem jag är och vad jag har gjort.
             </h1>
         </base-card>
     </div>

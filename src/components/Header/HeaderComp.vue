@@ -17,6 +17,10 @@
                     <router-link to="/about-me">{{ aboutMeDisplay }}</router-link>
                 </li>
 
+                <li>
+                    <router-link to="/projects">{{ projectDisplay }}</router-link>
+                </li>
+
             </ul>
         </nav>
     </header>
@@ -28,7 +32,8 @@ export default {
         return {
             // Property som visar dess info på hemsidan.
             homeDisplay: "Hem",
-            aboutMeDisplay: "Om Mig",
+            aboutMeDisplay: "Om mig",
+            projectDisplay: "Projekt",
         };
     },
 }
