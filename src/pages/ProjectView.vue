@@ -1,13 +1,14 @@
 <template>
     <div>
         <br />
+        <br />
 
         <section>
             <h1>Vad har jag gjort?</h1>
         </section>
         <base-card>
             <section>
-                <h2>Projekt 1</h2>
+                <h2>Projekt 1 - BRF Hästhagsvägen</h2>
             </section>
             <br />
 
@@ -55,7 +56,7 @@
 
         <base-card>
             <section>
-                <h2>Projekt 2</h2>
+                <h2>Projekt 2 - Olovs Hage Samfällighet</h2>
             </section>
             <br />
             <h3>
@@ -106,4 +107,12 @@ export default {
 </script>
 
 <style>
+h2,
+h1 {
+    font-family: "Montserrat";
+}
+
+h3 {
+    font-family: "Montserrat-Medium";
+}
 </style>

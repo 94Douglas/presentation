@@ -8,7 +8,7 @@
   div {
       border-radius: 12px;
       padding: 1rem;
-      margin: 6rem auto;
+      margin: 4rem auto;
       max-width: 50rem;
       color: #fff;
       text-align: center;

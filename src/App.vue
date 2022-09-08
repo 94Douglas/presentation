@@ -21,6 +21,18 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat"),
+    url(./fonts/Montserrat/Montserrat-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: local("Montserrat"),
+    url(./fonts/Montserrat/Montserrat-Medium.ttf) format("truetype");
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
