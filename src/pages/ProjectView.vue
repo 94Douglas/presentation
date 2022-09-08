@@ -8,12 +8,19 @@
         </section>
         <base-card>
             <section>
-                <h2>Projekt 1 - BRF Hästhagsvägen</h2>
+                <h2>Projekt 1 - BRF Hällungen 2</h2>
             </section>
+            <br />
+            <h3>
+                Frontend: Vue
+            </h3>
+            <h3>
+                Backend: Firebase
+            </h3>
             <br />
 
             <h3>Har gjort två projekt åt två kunder.
-                Första projektet är en hemsida till en bostadsrättsförening.
+                Första produkten är en hemsida till en bostadsrättsförening.
                 Examensarbetet var det sista momentet att utföra i utbildningen, här såg jag min chans att påbörja detta
                 projekt.
                 Då examensarbetet gick ut på att lära sig en helt ny teknik, valde jag mig för att lära mig Vue.js.
@@ -60,6 +67,22 @@
             </section>
             <br />
             <h3>
+                Verktyg: MERN
+            </h3>
+            <h3>
+                MongoDB
+            </h3>
+            <h3>
+                Express.JS
+            </h3>
+            <h3>
+                React.JS
+            </h3>
+            <h3>
+                Node.JS
+            </h3>
+            <br />
+            <h3>
                 Det andra projektet jag utförde till en kund var en hemsida till en samfällighet.
                 Då jag är väldigt intresserad av nya tekniker, såg jag chansen att lära mig något nytt.
                 Den nya tekniken som jag valde var att lära mig var MERN fullstack lösning.
@@ -76,6 +99,10 @@
                 Admin får då också tillgång till en admin panel, som göms för vanliga användare. Skulle
                 en vanlig användare veta länken till admin panelen, så kommer de att nekas då de inte har behörighet
                 till denna delen.
+            </h3>
+            <br />
+            <h3>
+                Även denna produkt använder sig av återanvändbar kod och är även kommenterad.
             </h3>
             <br />
             <h3>Länken till andra projektet finner ni genom att klicka

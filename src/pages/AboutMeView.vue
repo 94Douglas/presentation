@@ -60,12 +60,6 @@
                 del av projektet, mig kan man lita på när det gäller att leverera mot deadline.
             </h3>
         </base-card>
-        <base-card>
-            <br />
-            <h3>
-
-            </h3>
-        </base-card>
 
     </div>
 </template>
