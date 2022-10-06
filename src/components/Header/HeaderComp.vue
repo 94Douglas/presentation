@@ -60,7 +60,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 10px 20px rgba(172, 172, 172, 0.199);
+    box-shadow: 0 10px 20px rgba(172, 172, 172, 0.374);
 }
 
 /* modifiera header ram och text */
