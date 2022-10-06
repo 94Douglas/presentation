@@ -11,6 +11,6 @@ git add -A
 
 git commit -m "New Deployment"
 
-git push -f git@github.com:94Douglas/presentation.git master:vue
+git push -f git@github.com:94Douglas/presentation.git pageDev:vue
 
 cd -
